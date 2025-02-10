@@ -1,6 +1,6 @@
 # Guess the Number Game
 
-Welcome to the Guess the Number! This is a simple Python console application where the player tries to guess a randomly selected number within a specified range.
+Welcome to Guess the Number! This is a simple Python console application where the player tries to guess a randomly selected number within a specified range.
 
 ## Features
 
